@@ -1,4 +1,3 @@
-<ALLIE YT>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -31,7 +30,7 @@
       padding: 40px 20px;
     }
 
-    /* Always side-by-side */
+    /* Videos side-by-side */
     .videos {
       display: flex;
       justify-content: center;
@@ -40,21 +39,20 @@
       flex-wrap: nowrap; /* never stack */
     }
     .videos iframe {
-      width: 100%;
-      max-width: 450px;
-      aspect-ratio: 16 / 9;
+      width: 450px;
+      height: 250px;
       border-radius: 10px;
       border: none;
       box-shadow: 0px 4px 15px rgba(0,0,0,0.5);
     }
 
-    /* Red button */
+    /* PayPal button */
     .paypal {
       margin-top: 40px;
     }
     .paypal a {
       display: inline-block;
-      background: #e63946;
+      background: #e63946; /* red */
       color: white;
       padding: 15px 30px;
       font-size: 20px;
@@ -65,20 +63,8 @@
       transition: all 0.3s ease;
     }
     .paypal a:hover {
-      background: #b71c1c;
+      background: #b71c1c; /* darker red */
       transform: scale(1.05);
-    }
-
-    /* Shrink videos on small screens so they fit side-by-side */
-    @media (max-width: 950px) {
-      .videos iframe {
-        max-width: 300px;
-      }
-    }
-    @media (max-width: 650px) {
-      .videos iframe {
-        max-width: 200px;
-      }
     }
   </style>
 </head>
@@ -94,7 +80,9 @@
     <p>Watch the videos below, then grab the exact settings I use for just $10.</p>
 
     <div class="videos">
+      <!-- Left video -->
       <iframe src="https://www.youtube.com/embed/jEZv__E89lM" allowfullscreen></iframe>
+      <!-- Right video -->
       <iframe src="https://www.youtube.com/embed/yOE7LTjOwHI" allowfullscreen></iframe>
     </div>
 
