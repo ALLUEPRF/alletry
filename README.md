@@ -13,7 +13,6 @@
       text-align: center;
     }
 
-    /* Header */
     header {
       background: rgba(0, 0, 0, 0.4);
       padding: 20px;
@@ -26,17 +25,16 @@
       text-decoration: none;
     }
 
-    /* Main container */
     .container {
       max-width: 1000px;
       margin: auto;
       padding: 40px 20px;
     }
 
-    /* Video section - always side by side */
+    /* Video section - perfectly centered pair */
     .videos {
       display: flex;
-      justify-content: center;
+      justify-content: center; /* center the whole row */
       align-items: center;
       gap: 20px;
     }
@@ -48,7 +46,6 @@
       box-shadow: 0px 4px 15px rgba(0,0,0,0.5);
     }
 
-    /* PayPal button */
     .paypal {
       margin-top: 40px;
     }
@@ -72,20 +69,20 @@
 </head>
 <body>
 
-  <!-- Top header -->
   <header>
     🎥 Visit my YouTube channel:
     <a href="https://www.youtube.com/@funnyme018" target="_blank">@funnyme018</a>
   </header>
 
-  <!-- Content -->
   <div class="container">
     <h1>🔥 Get My Pro Sensitivity Settings 🔥</h1>
     <p>Watch the videos below, then grab the exact settings I use for just $10.</p>
 
-    <!-- Videos side-by-side -->
+    <!-- Videos in the middle -->
     <div class="videos">
+      <!-- Left video -->
       <iframe src="https://www.youtube.com/embed/jEZv__E89lM" allowfullscreen></iframe>
+      <!-- Right video -->
       <iframe src="https://www.youtube.com/embed/yOE7LTjOwHI" allowfullscreen></iframe>
     </div>
 
