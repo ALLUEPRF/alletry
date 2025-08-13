@@ -65,7 +65,7 @@
       <li>XITADAS pulls</li>
       <li>Oneshot Method</li>
       <li>Anti-lag + FPS Boost</li>
-      <li>White FF's complete HUD and Sensi</li>
+      <li>AllieFF's complete HUD and Sensi</li>
       <li>Bonus: How to make money playing Free Fire</li>
     </ul>
     <div class="pricing">
@@ -87,7 +87,7 @@
       <li>Norecoil</li>
       <li>Oneshot Method</li>
       <li>Anti-lag + FPS Boost</li>
-      <li>White FF Complete Hud + Bonus</li>
+      <li>AllieFF Complete Hud + Bonus</li>
       <li>XITADAS pulls</li>
       <li>Ghost cover method</li>
       <li>+17 detailed HANDCAM lessons</li>
