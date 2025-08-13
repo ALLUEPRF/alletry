@@ -46,12 +46,13 @@
       box-shadow: 0px 4px 15px rgba(0,0,0,0.5);
     }
 
+    /* Red PayPal button */
     .paypal {
       margin-top: 40px;
     }
     .paypal a {
       display: inline-block;
-      background: #0070ba;
+      background: #e63946; /* red */
       color: white;
       padding: 15px 30px;
       font-size: 20px;
@@ -62,7 +63,7 @@
       transition: all 0.3s ease;
     }
     .paypal a:hover {
-      background: #005c99;
+      background: #b71c1c; /* darker red */
       transform: scale(1.05);
     }
   </style>
