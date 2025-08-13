@@ -31,6 +31,7 @@
   .feature-box h2 { color: #ffd700; margin-bottom: 10px; font-size: 20px; }
   .feature-box ul { list-style: none; padding-left: 0; }
   .feature-box ul li { margin-bottom: 5px; }
+  .allieff { color: #ffd700; font-weight: bold; }
 
   /* Pricing and button */
   .pricing { margin-top: 10px; }
@@ -65,7 +66,7 @@
       <li>XITADAS pulls</li>
       <li>Oneshot Method</li>
       <li>Anti-lag + FPS Boost</li>
-      <li>AllieFF's complete HUD and Sensi</li>
+      <li><span class="allieff">AllieFF's</span> complete HUD and Sensi</li>
       <li>Bonus: How to make money playing Free Fire</li>
     </ul>
     <div class="pricing">
@@ -87,7 +88,7 @@
       <li>Norecoil</li>
       <li>Oneshot Method</li>
       <li>Anti-lag + FPS Boost</li>
-      <li>AllieFF Complete Hud + Bonus</li>
+      <li><span class="allieff">AllieFF</span> Complete Hud + Bonus</li>
       <li>XITADAS pulls</li>
       <li>Ghost cover method</li>
       <li>+17 detailed HANDCAM lessons</li>
