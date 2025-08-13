@@ -28,26 +28,21 @@
 
     /* Main container */
     .container {
-      max-width: 1200px;
+      max-width: 1000px;
       margin: auto;
       padding: 40px 20px;
     }
 
-    /* Video section */
+    /* Video section - always side by side */
     .videos {
       display: flex;
       justify-content: center;
+      align-items: center;
       gap: 20px;
-      flex-wrap: wrap;
-      background: rgba(255,255,255,0.05);
-      padding: 20px;
-      border-radius: 15px;
-      margin-top: 30px;
     }
     iframe {
-      width: 100%;
-      max-width: 500px;
-      height: 280px;
+      width: 450px;
+      height: 250px;
       border-radius: 10px;
       border: none;
       box-shadow: 0px 4px 15px rgba(0,0,0,0.5);
@@ -72,13 +67,6 @@
     .paypal a:hover {
       background: #005c99;
       transform: scale(1.05);
-    }
-
-    /* Mobile adjustments */
-    @media (max-width: 768px) {
-      iframe {
-        height: 220px;
-      }
     }
   </style>
 </head>
