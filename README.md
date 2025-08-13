@@ -48,7 +48,7 @@
 </header>
 
 <div class="container">
-  <h1>🔥 Free Fire Sensitivity & Hacks 🔥</h1>
+  <h1>🔥 Free Fire Sensitivity 🔥</h1>
   <p class="subtitle">Get the best settings, methods, and bonuses to dominate Free Fire!</p>
 
   <div class="videos">
