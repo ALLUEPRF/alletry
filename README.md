@@ -70,8 +70,8 @@
       <li>Bonus: How to make money playing Free Fire</li>
     </ul>
     <div class="pricing">
-      <span class="original">FROM R$ 59.99</span>
-      <span class="discount">FOR ONLY R$ 24.97</span>
+      <span class="original">FROM $59.99</span>
+      <span class="discount">FOR ONLY $25</span>
     </div>
     <a class="access-btn" href="https://paypal.me/aminaprogamer/10" target="_blank">ACCESS NOW</a>
   </div>
@@ -95,8 +95,8 @@
       <li>Exclusive Bonuses: Instagram Best Friends, Make Money, Private Group</li>
     </ul>
     <div class="pricing">
-      <span class="original">FROM R$ 199.99</span>
-      <span class="discount">FOR ONLY R$ 39.99</span>
+      <span class="original">FROM $199.99</span>
+      <span class="discount">FOR ONLY $40</span>
     </div>
     <a class="access-btn" href="https://paypal.me/aminaprogamer/10" target="_blank">ACCESS NOW</a>
   </div>
