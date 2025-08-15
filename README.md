@@ -39,6 +39,28 @@
   .pricing .discount { color: #e63946; font-size: 24px; font-weight: bold; display: block; margin: 5px 0; }
   .access-btn { display: inline-block; background: #e63946; color: white; padding: 12px 30px; font-size: 18px; border-radius: 8px; text-decoration: none; font-weight: bold; transition: all 0.3s ease; margin-top: 10px; }
   .access-btn:hover { background: #b71c1c; transform: scale(1.05); }
+
+  /* Special S5 highlight */
+  .s5-box {
+    border: 2px solid gold;
+    background: rgba(255,215,0,0.08);
+    box-shadow: 0 0 15px rgba(255,215,0,0.3);
+  }
+  .s5-btn {
+    background: linear-gradient(135deg, gold, #e63946);
+    color: black;
+    font-size: 20px;
+    padding: 14px 40px;
+    border-radius: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    display: inline-block;
+    box-shadow: 0 0 10px rgba(255,215,0,0.5);
+  }
+  .s5-btn:hover {
+    background: linear-gradient(135deg, #ffec8b, #c53030);
+    transform: scale(1.08);
+  }
 </style>
 </head>
 <body>
@@ -56,6 +78,34 @@
     <iframe src="https://www.youtube.com/embed/yOE7LTjOwHI" allowfullscreen></iframe>
   </div>
 
+  <!-- NEW S5 Account Payment Options - Highlighted -->
+  <div class="feature-box s5-box">
+    <h2>S5 Free Fire Account – Standard</h2>
+    <ul>
+      <li>Secure PayPal Checkout</li>
+      <li>Includes buyer protection</li>
+      <li>Delivery after confirmation</li>
+    </ul>
+    <div class="pricing">
+      <span class="discount">$150 USD</span>
+    </div>
+    <a class="s5-btn" href="https://paypal.me/aminaprogamer/150USD" target="_blank">PAY $150</a>
+  </div>
+
+  <div class="feature-box s5-box">
+    <h2>S5 Free Fire Account – Premium</h2>
+    <ul>
+      <li>Priority delivery</li>
+      <li>Exclusive bonuses included</li>
+      <li>Secure PayPal Checkout</li>
+    </ul>
+    <div class="pricing">
+      <span class="discount">$200 USD</span>
+    </div>
+    <a class="s5-btn" href="https://paypal.me/aminaprogamer/200USD" target="_blank">PAY $200</a>
+  </div>
+
+  <!-- Existing Packs -->
   <div class="feature-box">
     <h2>Basic Pack</h2>
     <ul>
